@@ -1,0 +1,116 @@
+
+.header {
+	display:block;
+	width:100%;
+	margin-top:5px;
+	
+}
+
+.headerList {
+	list-style-type:none;
+
+}
+
+.right15 {
+	margin-right:15px;
+}
+
+.color {
+	color:#2F4F4F;
+}
+.right_margin {
+	margin-right:20px;
+}
+
+.google {
+	background-color: #8A2BE2;
+	color:white;
+	width:30px;
+	height:30px;
+	border-radius:100%;
+	border:1px solid #8A2BE2;
+}
+
+.middle_div {
+	width:100%;
+	margin-top:150px;
+}
+
+.image {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.text_div {
+	width:100%;
+	margin-top:30px;
+}
+
+.text {
+	display:block;
+	margin-left: auto;
+	margin-right:auto;
+	width:45%;
+	height:35px;
+	background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPx7jom--E4HRyoaHQuqDS8usGIniImoEh00ZVgmE1hhE_NtMx");
+	background-size:30px 30px;
+	background-repeat:no-repeat;
+	background-position: right;
+}
+
+.button_div {
+	width:100%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	text-align: center;
+	
+
+}
+
+.lbutton {
+	background-color: #E0EEE0;
+	color:#1c2f2f;
+	
+}
+
+
+
+.rbutton {
+	background-color: #E0EEE0;
+	color:#1c2f2f;
+}
+
+.lbutton:hover {
+	color:black;
+	background-color: white;
+}
+
+.rbutton:hover {
+	color:black;
+	background-color: white;
+}
+
+.languages {
+
+	margin-top:30px;
+	text-align:center;
+}
+
+.languageList {
+	
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	
+}
+ul li {display:inline;}
+
+
+.footer {
+	margin-top:130px;
+	margin-bottom:0px;
+}
+
